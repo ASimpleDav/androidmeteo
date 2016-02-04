@@ -94,6 +94,8 @@ public class MainActivity extends FragmentActivity {
 		googleMap.getUiSettings().setTiltGesturesEnabled(true);
 		googleMap.getUiSettings().setZoomControlsEnabled(true);
 		googleMap.getUiSettings().setMyLocationButtonEnabled(true);
+		
+		
 	}
 
 	public void initializeMapLocationSettings() {
