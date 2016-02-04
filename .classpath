@@ -7,5 +7,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="lib" path="libs/gson-2.5.jar"/>
 	<classpathentry kind="lib" path="libs/retrofit-1.9.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services_lib"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

@@ -2,5 +2,7 @@
 <resources>
 
     <string name="app_name">Meteo</string>
+    <string name="zoom_to_markers">Zoomer sur les marqueurs</string>
+    <string name="error_create_map">Impossible de créer la carte</string>
 
 </resources>
